@@ -1,2 +1,2 @@
-# test-file
-testing pycharm to github
+# msds510
+DSC510 Intro to Programming
